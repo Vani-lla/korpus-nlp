@@ -1,0 +1,10 @@
+services:
+  label-studio:
+    image: heartexlabs/label-studio:latest
+    user: "${UID:-1000}:${GID:-1000}"
+    ports: ["8080:8080"]
+    environment:
+      LABEL_STUDIO_USERNAME: admin@local.host
+      LABEL_STUDIO_PASSWORD: popis
+      LABEL_STUDIO_USER_TOKEN: ppc-token
+    volumes: ["./label-studio-data:/label-studio/data"]

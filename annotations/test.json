@@ -1,0 +1,126 @@
+[
+{
+  "id": 1,
+  "text": "Szanowna Pani Marszałek! Wysoka Izbo! Panie Ministrze! 180 mld zł — program inwestycyjny… Nie, do 2032 r. Jest przygotowany największy program inwestycyjny w historii całej Polski. To, co dzisiaj widzimy, to, co jeździ po torach, to jest wasza inwestycja, panowie ministrowie, z poprzedniego rządu Prawa i Sprawiedliwości.",
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+    {
+      "start": 230,
+      "end": 254,
+      "text": "to jest wasza inwestycja",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 124,
+      "end": 179,
+      "text": "największy program inwestycyjny w historii całej Polski",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 3,
+  "created_at": "2026-10-18T14:40:42.088777Z",
+  "updated_at": "2026-10-18T14:40:42.088791Z",
+  "lead_time": 42.289
+},
+{
+  "id": 2,
+  "text": "Pan poseł Dorywalski zwrócił uwagę na kwestię dostosowania się organów administracji. Staraliśmy się to przemyśleć właśnie poprzez to, że te okresy vacatio legis są zróżnicowane. Pan poseł Lorek zachęca do pracy, szybkiej pracy nad tym projektem. Dziękuję za to i uważam, że byłoby to bardzo ważne. Pan poseł Kryj — dziękuję za rozszerzenie możliwości płacenia podatku ryczałtowego. To jest bardzo ważne pytanie i sprawa. Krótko mówiąc, podatek ryczałtowy daje prostą możliwość płacenia podatku bez wchodzenia w kwestie kosztów, więc idźmy w tym kierunku.",
+  "stance": "popiera",
+  "spans": [
+    {
+      "start": 316,
+      "end": 327,
+      "text": "dziękuję za",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 383,
+      "end": 420,
+      "text": "To jest bardzo ważne pytanie i sprawa",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 529,
+      "end": 554,
+      "text": "więc idźmy w tym kierunku",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 4,
+  "created_at": "2026-10-18T14:42:03.726647Z",
+  "updated_at": "2026-10-18T14:42:03.726659Z",
+  "lead_time": 81.32
+},
+{
+  "id": 3,
+  "text": "Pani Marszałek! Pani Minister! Wysoka Izbo! Dosłownie i w przenośni możemy powiedzieć, że idzie wiatr zmian energetycznych, ekologicznych, ekonomicznych. Ta ustawa to jest wiatr w skrzydła wiatraków. Na ten projekt czekali wszyscy Polacy, którzy mają dość: mają dość smogu, który zabija, mają dość węgla i wysokich kosztów środowiskowych, mają dość wysokich cen energii.",
+  "ton": "zwykły",
+  "stance": "popiera",
+  "spans": [
+    {
+      "start": 200,
+      "end": 237,
+      "text": "Na ten projekt czekali wszyscy Polacy",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 154,
+      "end": 198,
+      "text": "Ta ustawa to jest wiatr w skrzydła wiatraków",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 5,
+  "created_at": "2026-10-18T14:42:56.894032Z",
+  "updated_at": "2026-10-18T14:42:56.894044Z",
+  "lead_time": 52.856
+},
+{
+  "id": 10,
+  "text": "Pani Marszałek! Wysoka Izbo! Panie Ministrze! Właśnie pan minister Wieczorek dokonał zaorania pani wiceminister Zielińskiej, bo pani wiceminister Zielińska mówi, że zawsze wieje, po to są te wiatraki, a pan mówi, że urosły ceny, bo nie wiało. Dogadajcie się w koalicji, panie ministrze Motyka.",
+  "ton": "agresywny",
+  "stance": "sprzeciwia się",
+  "spans": [
+    {
+      "start": 77,
+      "end": 111,
+      "text": "dokonał zaorania pani wiceminister",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 216,
+      "end": 241,
+      "text": "urosły ceny, bo nie wiało",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 12,
+  "created_at": "2026-10-18T14:46:05.405328Z",
+  "updated_at": "2026-10-18T14:46:05.405342Z",
+  "lead_time": 62.399
+}
+]

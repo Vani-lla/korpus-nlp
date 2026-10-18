@@ -1,0 +1,21 @@
+<View>
+  <Labels name="spans" toName="text">
+    <Label value="Agresja" background="#e53935" hotkey="a"/>
+    <Label value="Kontekst" background="#1e88e5" hotkey="c"/>
+  </Labels>
+  <Text name="meta" value="$meta"/>
+  <Text name="text" value="$text"/>
+
+  <Header value="Postawa wobec celu"/>
+  <Choices name="stance" toName="text" choice="single" required="true" showInline="true">
+    <Choice value="popiera" hotkey="1"/>
+    <Choice value="neutralna" hotkey="2"/>
+    <Choice value="sprzeciwia się" hotkey="3"/>
+  </Choices>
+
+  <Header value="Ton"/>
+  <Choices name="ton" toName="text" choice="single" required="true" showInline="true">
+    <Choice value="zwykły" hotkey="4"/>
+    <Choice value="agresywny" hotkey="5"/>
+  </Choices>
+</View>
