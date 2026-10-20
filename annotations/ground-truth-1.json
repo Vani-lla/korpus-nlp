@@ -1,0 +1,1503 @@
+[
+ {
+  "id": 1,
+  "text": "Proponowane rozwiązanie ma przede wszystkim zapewnić jednolitość i porównywalność publikowanych danych. Dzięki temu informacje udostępniane przez deweloperów będą mogły być łatwiej analizowane i wykorzystywane zarówno przez obywateli, jak i podmioty tworzące narzędzia służące analizie rynku nieruchomości. Projekt przewiduje, że wymagany format danych będzie udostępniany komunikatem ministra właściwego do spraw informatyzacji oraz ogłaszany w Monitorze Polskim. Rozwiązanie to zapewnia przejrzystość oraz pozwala na sprawne aktualizowanie wymogów technicznych bez konieczności każdorodowej zmiany przepisów ustawowych.",
+  "meta": "Adam Dziedzic · PSL-TD · 2026-06-17",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 44,
+    "end": 102,
+    "text": "zapewnić jednolitość i porównywalność publikowanych danych",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "text": "Niestety nie zostały zebrane. Chętnie będę się chlubić innymi moimi interwencjami poselskimi. Zdaje mi się, że skutecznie odświeżyłem ten gatunek i przypomniałem szerokiej publiczności, że poseł może, a z mojego punktu widzenia powinien, reagować na zło, które dostrzega w polskim życiu publicznym, na wszelkie sposoby. Sięgnięto zatem po inne przykłady. No i cóż, mogę się tylko chlubić, ale nie wypada, więc stwierdzę, że mam poczucie dobrze spełnionego obowiązku. Przywróciłem powagę Wysokiej Izby, kładąc kres tej rasistowskiej, talmudycznej celebracji.",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-01-17",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 518,
+    "end": 556,
+    "text": "rasistowskiej, talmudycznej celebracji",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "text": "Reparacje. Polska zrzekła się reparacji w roku 1953. Potwierdziła to pani Anna Fotyga odpowiedzią na interpelację poselską. Jest to w rejestrze sejmowym. Tak, w 2006 r. potwierdziła, że reparacje zostały w Polsce…",
+  "meta": "Władysław Bartoszewski · PSL-TD · 2025-12-04",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "zgodni"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": null
+ },
+ {
+  "id": 4,
+  "text": "…czy wynika to z jakichś innych powodów. Może jest na sali lekarz? Może trzeba zrobić jakieś badania, bo pana krzyki po prostu przekraczają pewne normy. Natomiast cieszę się, panie pośle Dolata, że pan się odezwał w sprawie małych szkół. Otóż przygotowaliśmy ustawę osłonową odnośnie do małych szkół, ustawę, która wreszcie porządkuje to, kto odpowiada za ewentualne przekształcenia, która daje szansę, by samorządy, te najuboższe, te, które są zagrożone największą depopulacją, mogły…",
+  "meta": "Barbara Nowacka · KO · 2026-04-28",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 153,
+    "end": 236,
+    "text": "Natomiast cieszę się, panie pośle Dolata, że pan się odezwał w sprawie małych szkół",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 67,
+    "end": 151,
+    "text": "Może trzeba zrobić jakieś badania, bo pana krzyki po prostu przekraczają pewne normy",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "text": "Też były i też na terenie II Rzeczypospolitej mordowały tysiące Polaków. Czy to są właściwe sformułowania? I jeszcze raz państwu powiem: będziecie dzisiaj w rosyjskiej telewizji i będzie to wykorzystane przeciwko polskiej racji stanu.",
+  "meta": "Sławomir Ćwik · Polska2050-TD · 2026-07-03",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "igor",
+   "spans": "igor"
+  },
+  "stance": "neutralna",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 46,
+    "end": 71,
+    "text": "mordowały tysiące Polaków",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 138,
+    "end": 177,
+    "text": "ędziecie dzisiaj w rosyjskiej telewizji",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "text": "Oczywiście pani podpowiada, że „Laura i Filon”, kolęda „Bóg się rodzi”. Zaraz zresztą przeczytam projekt uchwały, te najważniejsze będą rzeczy wymienione. Tak więc jest to poeta, który rzeczywiście wpisuje się w naszą tożsamość, wpisuje się w naszą kulturę. Naprawdę niewiele mamy takich nazwisk, ale kilka mamy, które wprowadziły język, postacie powszechnie znane bez względu na poziom wykształcenia. To jest po prostu poeta polskiego ludu, polskiego społeczeństwa, polskiego narodu.",
+  "meta": "Joanna Lichocka · PiS · 2025-09-25",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "igor",
+   "spans": "igor"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 72,
+    "end": 112,
+    "text": "Zaraz zresztą przeczytam projekt uchwały",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "text": "Szanowny Panie Marszałku! Wysoka Izbo! W okolicach 14 października zwyczajowo świętujemy Dzień Edukacji Narodowej, popularnie zwany dniem nauczyciela. To święto ustanowione 27 kwietnia 1972 r. na mocy ustawy pod nazwą Dzień Nauczyciela, a następnie w 1982 r. przemianowane na Dzień Edukacji Narodowej. Dzień ten uznaje się za święto wszystkich pracowników oświaty i jest podziękowaniem za kształtowanie umysłów najmłodszych mieszkańców naszego kraju, a nawet za troskę o ich życie.",
+  "meta": "Anna Pieczarka · PiS · 2025-10-16",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "kacper"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 0,
+    "end": 24,
+    "text": "Szanowny Panie Marszałku",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 26,
+    "end": 37,
+    "text": "Wysoka Izbo",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 372,
+    "end": 376,
+    "text": "odzi",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 371,
+    "end": 385,
+    "text": "podziękowaniem",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "text": "Pan poseł Zandberg pokazuje, jak bardzo realne są zagrożenia, przed którymi ostrzegamy i przed którymi chcemy ratować Polaków. Chcemy ratować Polaków przed komuną i eurokomuną zarówno. To dla pana posła Zandberga: jak Polak zarobił, to pewnie ukradł. Macie to zresztą wspólne z premierem Kaczyńskim, dla którego polscy przedsiębiorcy to kombinatorzy, a jeżeli narzekają na talmudyzm biurokratyczny i fiskalizm nie do zniesienia, to pewnie nie umieją grać w te klocki i niech szukają innego zawodu, pewnie na etacie, jak nie w biurokracji, to w korporacji.",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-05-09",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 134,
+    "end": 175,
+    "text": "ratować Polaków przed komuną i eurokomuną",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 214,
+    "end": 249,
+    "text": "jak Polak zarobił, to pewnie ukradł",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 251,
+    "end": 298,
+    "text": "Macie to zresztą wspólne z premierem Kaczyńskim",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 312,
+    "end": 349,
+    "text": "polscy przedsiębiorcy to kombinatorzy",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 33,
+    "end": 125,
+    "text": "bardzo realne są zagrożenia, przed którymi ostrzegamy i przed którymi chcemy ratować Polaków",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "text": "To są dwa największe problemy. Co teraz można z tym zrobić? Po pierwsze, oczywiście należy odrzucić tę ustawę, która nie nadaje się do regulowania tego rynku. Sprawi ona, że polskie przedsiębiorstwa będą wynosić się za granicę, a firmy zagraniczne będą paszportować swoje zagraniczne licencje do Polski. Efekt będzie taki, że KNF nie będzie miał w tej sprawie nic do powiedzenia. Chcecie to ryzyko, o tym pani też nie wie, przerzucić na zagranicznych regulatorów po to, żeby KNF nie miał kogo regulować. Pierwsza kwestia: należy odrzucić tę ustawę.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2025-09-24",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 73,
+    "end": 109,
+    "text": "oczywiście należy odrzucić tę ustawę",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 117,
+    "end": 157,
+    "text": "nie nadaje się do regulowania tego rynku",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 522,
+    "end": 547,
+    "text": "należy odrzucić tę ustawę",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "text": "Ten wyścig na kolejne programy socjalne doprowadził nas do naprawdę fatalnej sytuacji. Za ten bardzo wysoki dług odpowiadacie wszyscy, jak tu siedzicie — i PiS, i PSL, i Platforma, i Lewica — bo to wy za tymi ustawami głosowaliście.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2023-12-21",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 40,
+    "end": 85,
+    "text": "doprowadził nas do naprawdę fatalnej sytuacji",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 87,
+    "end": 151,
+    "text": "Za ten bardzo wysoki dług odpowiadacie wszyscy, jak tu siedzicie",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "text": "W trakcie jego trwania internowano łącznie 10 131 działaczy związanych z Niezależnym Samorządnym Związkiem Zawodowym „Solidarność”, a życie straciło 50–100 osób, w tym dziewięciu górników z Kopalni Węgla Kamiennego Wujek w Katowicach podczas pacyfikacji strajku. Stan wojenny wprowadzono na mocy podjętej niejednomyślnie uchwały Rady Państwa z dnia 12 grudnia 1981 r., na wniosek Wojskowej Rady Ocalenia Narodowego — tymczasowego, niekonstytucyjnego organu władzy, a faktycznie nadrzędnego wobec konstytucyjnych władz państwowych.",
+  "meta": "Grzegorz Lorek · PiS · 2023-12-20",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 263,
+    "end": 328,
+    "text": "Stan wojenny wprowadzono na mocy podjętej niejednomyślnie uchwały",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 431,
+    "end": 463,
+    "text": "niekonstytucyjnego organu władzy",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 134,
+    "end": 160,
+    "text": "życie straciło 50–100 osób",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "text": "1. Jakie konkretne działania prawne i instytucjonalne są przewidziane w projekcie uchwały, aby zapewnić, że Trybunał Konstytucyjny będzie spełniał standard sądu ustanowionego na mocy prawa?",
+  "meta": "Marcin Józefaciuk · KO · 2026-03-12",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 3,
+    "end": 89,
+    "text": "Jakie konkretne działania prawne i instytucjonalne są przewidziane w projekcie uchwały",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "text": "Dzień dobry. Marszałku! Wysoka Izbo! Panie Pośle Warchoł! Uprzejmie informuję: jeżeli klub nie przygotował panu scenariusza głosowań, to zaraz dowie się pan z wyświetlacza, że nie będziemy głosować łącznie ani grupowo. Będziemy głosować nad kandydaturami pojedynczo. Będzie pan mógł wybrać albo jeden, albo dwa, albo wszystkie sześć wakatów, które jako Sejm mamy do obsadzenia.",
+  "meta": "Anna Żukowska · Lewica · 2026-03-13",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "igor",
+   "spans": "igor"
+  },
+  "stance": "neutralna",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 79,
+    "end": 171,
+    "text": "jeżeli klub nie przygotował panu scenariusza głosowań, to zaraz dowie się pan z wyświetlacza",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "text": "Projekt ten odpowiada na wyzwania związane z dynamicznym rozwojem nowych technologii w transporcie drogowym. Automatyzacja pojazdów to nie jest odległa przyszłość, lecz proces, który dzieje się tu i teraz, dzieje się na naszych oczach. Państwa takie jak Stany Zjednoczone, Japonia, Niemcy od lat wdrażają rozwiązania prawne pozwalające na bezpieczne testowanie pojazdów autonomicznych. Polska nie może w tym względzie pozostawać w tyle.",
+  "meta": "Piotr Kowal · Lewica · 2025-09-25",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 0,
+    "end": 107,
+    "text": "Projekt ten odpowiada na wyzwania związane z dynamicznym rozwojem nowych technologii w transporcie drogowym",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 386,
+    "end": 435,
+    "text": "Polska nie może w tym względzie pozostawać w tyle",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "text": "Ustawa pana prezydenta jest bardzo restrykcyjna, bardzo przeregulowuje tę branżę. Powinna wam się podobać, powinniście ją poprzeć. Nie popieracie i nie wiadomo czemu. Nie podoba wam się tak naprawdę tylko autor tej ustawy, a nie treść.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2026-05-12",
+  "sędzia": {
+   "stance": "kacper",
+   "ton": "igor",
+   "spans": "kacper"
+  },
+  "stance": "popiera",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 82,
+    "end": 129,
+    "text": "Powinna wam się podobać, powinniście ją poprzeć",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "text": "Chcę podziękować, panie marszałku, że pan przywitał polskich patriotów z klubów „Gazety Polskiej”, z Ruchu Obrony Granic, ale, panie marszałku, zapomniał pan oczywiście o Robercie Bąkiewiczu,…",
+  "meta": "Janusz Kowalski · PiS · 2026-07-30",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 0,
+    "end": 70,
+    "text": "Chcę podziękować, panie marszałku, że pan przywitał polskich patriotów",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "text": "To rząd nadziei na zmianę w polityce europejskiej, w praworządności, w prawach człowieka. Niektóre nadzieje spełnią się szybko, tak jest w sprawie in vitro. Niektóre będą spełnione za chwilę. Z realizacją innych będziemy musieli poczekać do 2025 r., do wyborów prezydenckich, ale w tej kadencji żaden temat nie zostanie uznany za temat zastępczy czy, uwaga, nietykalny ze względu na tzw. światopogląd.",
+  "meta": "Anna Żukowska · Lewica · 2023-12-12",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "zgodni"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": null
+ },
+ {
+  "id": 18,
+  "text": "A co w przypadku, gdy mówimy o kwestiach dowodowych? Ustawodawca zakłada, że należy wykazać, że osoba, która uznała, że została zgwałcona, nie wyraziła zgody na obcowanie płciowe. Jak ma to w praktyce wyglądać?",
+  "meta": "Grzegorz Płaczek · Konfederacja · 2024-03-07",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 180,
+    "end": 209,
+    "text": "Jak ma to w praktyce wyglądać",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "text": "Projekt budżetu na rok przyszły przewiduje kontynuację wzrostu nakładów na finansowanie ochrony zdrowia. Łącznie z NFZ-etem będzie to w przyszłym roku rekordowe 192 mld zł.",
+  "meta": "Andrzej Domański · KO · 2023-12-21",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "zgodni"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": null
+ },
+ {
+  "id": 20,
+  "text": "Szanowny Panie Marszałku! Wysoka Izbo! Król jest nagi. Żadnej pandemii nie było. A jeżeli była, to pandemia strachu, kłamstwa i głupoty. Dowodem na jej nieistnienie jest ucięcie jak za dotknięciem czarodziejskiej różdżki absurdalnych i ze wszech miar szkodliwych tzw. obostrzeń dokładnie w dniu 24 lutego 2022 r., kiedy to nasz kraj otworzył swoje granice na oścież przed milionami osób bez masek, bez testów, bez kwarantann i bez specyfików Big Pharmy zwanych szczepionkami na COVID.",
+  "meta": "Roman Fritz · Konfederacja · 2025-12-19",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "kacper"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 108,
+    "end": 135,
+    "text": "strachu, kłamstwa i głupoty",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 55,
+    "end": 80,
+    "text": "Żadnej pandemii nie było.",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "text": "Podkreślam, że w naszej ustawie ciągle mówimy o nowo powstającej infrastrukturze. O ile nie możemy szybko naprawić błędów popełnianych przez wiele lat, o tyle możemy zadbać o bezpieczeństwo na przyszłość, traktując to jako niezbędną inwestycję w dobrostan przyszłych pokoleń. Ta sama zasada będzie odnosiła się do nowo wybudowanych stacji metra i innych podziemnych kolejek.",
+  "meta": "Joanna Wicha · Lewica · 2024-06-28",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 159,
+    "end": 203,
+    "text": "możemy zadbać o bezpieczeństwo na przyszłość",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 223,
+    "end": 243,
+    "text": "niezbędną inwestycję",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "text": "Natomiast odnośnie do samej ustawy, samego projektu, chcę powiedzieć, że będziemy za skierowaniem projektu do komisji. Ta debata jest potrzebna, natomiast nie chciałabym, żeby ona za bardzo wyeskalowała…",
+  "meta": "Anna Żukowska · Lewica · 2026-07-03",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 119,
+    "end": 143,
+    "text": "Ta debata jest potrzebna",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "text": "A więc skierujmy ustawę do pracy na komisji, pracujmy. Zdrada dyplomatyczna się szerzy. Ona została nawet zinstytucjonalizowana. Wyszło przecież wczoraj na jaw, może nie całe, ale tam szydełko jedno małe z worka. Okazało się, że w kierownictwie resortu spraw zagranicznych jest obywatel obcego państwa, człowiek legitymujący się paszportem brytyjskim…",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-04-26",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "igor",
+   "spans": "kacper"
+  },
+  "stance": "neutralna",
+  "ton": "agresywny",
+  "spans": null
+ },
+ {
+  "id": 24,
+  "text": "Do pełnienia funkcji agencji łącznikowej wyznacza się Instytut Ekonomiki Rolnictwa i Gospodarki Żywnościowej — Państwowy Instytut Badawczy. Agencja łącznikowa wykonuje zadania państwa członkowskiego w zakresie FSDN. Na realizację zadania agencja otrzymuje corocznie od ministra właściwego do spraw rolnictwa dotację celową. Wpłaty z budżetu Unii Europejskiej za przekazane dane wpływają na dochody budżetu państwa.",
+  "meta": "Stefan Krajewski · PSL-TD · 2025-02-05",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "zgodni"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": null
+ },
+ {
+  "id": 25,
+  "text": "Szanowni Państwo! Lista zarzutów jest długa. My chcemy taniej energii. My chcemy przede wszystkim taniej energii i taniego ciepła. A co zrobili do dzisiaj, przez 868 dni Donald Tusk z Pauliną Hennig-Kloską? Nawet nie wystąpili o to, żeby zrobić rewizję EU ETS-u. Nie chcieli obniżyć kosztów energii. Dzisiaj, szanowni państwo, hurtowe koszty energii są trzy razy wyższe niż w 2018 r. Mieli prezydencję Polski w Unii Europejskiej i nawet nie podnieśli tego tematu, ani razu.",
+  "meta": "Janusz Kowalski · PiS · 2026-04-30",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 263,
+    "end": 298,
+    "text": "Nie chcieli obniżyć kosztów energii",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 327,
+    "end": 369,
+    "text": "hurtowe koszty energii są trzy razy wyższe",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "text": "Czemu tego nie obłożyć akcyzą? Czemu nie chcecie schylić się po te pieniądze leżące na ziemi? Zamiast tego wolicie robić problemy prawne młodym ludziom i skazywać ich za to, że posiadają coś, co można bez problemu od ręki kupić w aptece.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2023-12-21",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "kacper"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 31,
+    "end": 60,
+    "text": "Czemu nie chcecie schylić się",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "text": "…ale jest to poparcie z gwiazdką i ta gwiazdka jest bardzo istotna, ponieważ autorem tego projektu nie jest Ministerstwo Finansów, bo oni tam nic porządnego nie potrafią wymyślić, tylko jest to inicjatywa SprawdzaMY, a więc strony społecznej. Więcej takich inicjatyw.",
+  "meta": "Janusz Kowalski · PiS · 2025-11-19",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 134,
+    "end": 178,
+    "text": "oni tam nic porządnego nie potrafią wymyślić",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 243,
+    "end": 266,
+    "text": "Więcej takich inicjatyw",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 5,
+    "end": 21,
+    "text": "jest to poparcie",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "text": "Jeśli chodzi o pytania, tu jest absolutne niezrozumienie, wydaje mi się, pomocy, którą dzisiaj omawiamy, dla polskich rolników, dla rolnictwa. To jest kolejny element wsparcia dla bardzo wrażliwego sektora, którego PiS nie widział w taki właśnie sposób. Wymaga to jednak potwierdzenia podstawowych założeń. Mam dwa krótkie pytania do pana ministra: Jaki jest limit wsparcia dla sektora rolnego, dla jednego przedsiębiorcy rolnego i dla całego sektora w skali kraju? Dziękuję.",
+  "meta": "Rafał Kasprzyk · Polska2050-TD · 2025-10-07",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "zgodni",
+   "spans": "kacper"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 31,
+    "end": 57,
+    "text": " absolutne niezrozumienie,",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 215,
+    "end": 231,
+    "text": "PiS nie widział ",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "text": "No i najważniejsza rzecz. Proszę szanownego pana ministra Nenemana, który wszystkie nasze poprawki odrzuca, o odpowiedź na pytanie, czy zgodzi się z poprawką Prawa i Sprawiedliwości, żeby okres kontroli skrócić z 6 do 3 miesięcy, wzorem ustawy o KAS i ustawy — Prawo przedsiębiorców. Dziękuję.",
+  "meta": "Janusz Kowalski · PiS · 2025-07-22",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 26,
+    "end": 32,
+    "text": "Proszę",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 284,
+    "end": 292,
+    "text": "Dziękuję",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 110,
+    "end": 130,
+    "text": "odpowiedź na pytanie",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "text": "Włodzimierz Czarzasty jest osobą, która opowiada się jednoznacznie po stronie demokratycznej. To jest mój przyjaciel, to jest nasz kolega, to jest lider mojego ugrupowania, który przeprowadził moją partię przez najtrudniejszy czas dla każdego ugrupowania, które ma nieszczęście znaleźć się w takiej sytuacji jak my, kiedy byliśmy poza Sejmem. Ale to nas nauczyło, także Włodka, pokory. To jest coś, czego bardzo wielu osobom zasiadającym w tej Izbie niestety brakuje. I dzięki tej pokorze wie, że rzeczywiście marszałek Szymon Hołownia postawił poprzeczkę wysoko.",
+  "meta": "Anna Żukowska · Lewica · 2025-11-18",
+  "sędzia": {
+   "stance": "kacper",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": null
+ },
+ {
+  "id": 31,
+  "text": "Kolejny błąd logiczny — rząd twierdzi, że CBA jest upolitycznione. Pan minister bardzo często podkreślał to dzisiaj w swojej wypowiedzi. Rozwiązaniem ma być jeszcze większe upolitycznienie zadań z zakresu zwalczania korupcji. Uzasadnienie wskazuje, że przyczyną likwidacji CBA są, cytuję, uzasadnione zarzuty naruszenia praworządności i sprzeniewierzenia się zasadzie neutralności politycznej, nielegalna inwigilacja oraz ogólne upolitycznienie służby.",
+  "meta": "Zbigniew Hoffmann · PiS · 2025-11-20",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "kacper"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 0,
+    "end": 21,
+    "text": "Kolejny błąd logiczny",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 393,
+    "end": 416,
+    "text": " nielegalna inwigilacja",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "text": "W tej chwili zastanawiam się, czy jedynym momentem, kiedy stanęliśmy wszyscy razem obok siebie, nie był moment podpisywania umowy koalicyjnej. Chciałabym po roku pokazać, że jesteśmy wszyscy razem, wspólnie, ze sobą. Ludzie nas wybrali po to, żebyśmy różnili się od nich, od Prawa i Sprawiedliwości. Chodzi o to, żebyśmy szanowali prawa człowieka, szanowali konstytucję i żebyśmy wprowadzili takie rzeczy, które poszerzają te prawa, jak np. związki partnerskie, prawa reprodukcyjne.",
+  "meta": "Anna Żukowska · Lewica · 2024-10-16",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 143,
+    "end": 153,
+    "text": "Chciałabym",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 300,
+    "end": 369,
+    "text": "Chodzi o to, żebyśmy szanowali prawa człowieka, szanowali konstytucję",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "text": "Dzisiaj przypada 110. rocznica utworzenia I Liceum Ogólnokształcącego im. kanclerza i hetmana wielkiego koronnego Jana Zamojskiego w Zamościu. To najstarsza szkoła średnia w Zamościu, nie licząc oczywiście Akademii Zamojskiej, w której to akademii gmachu znajduje się dzisiaj liceum. W związku z tym, że obowiązki nie pozwalają mi uczestniczyć w tych uroczystościach, z tego miejsca chciałbym złożyć życzenia całej społeczności szkolnej i złożyć podziękowania wszystkim, którzy przyczynili się, przyczyniają się do tego, że jest to wspaniałe liceum, w którym młodzież może zdobywać wiedzę i wchodzić w dorosły świat. Dziękuję.",
+  "meta": "Sławomir Ćwik · Polska2050-TD · 2026-05-29",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 617,
+    "end": 625,
+    "text": "Dziękuję",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 439,
+    "end": 469,
+    "text": "złożyć podziękowania wszystkim",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "text": "Pani Marszałek! Mam pytanie: Ilu zatrzymaliście z tych rezunów, którzy w ostatnich dniach pod granicą polską po naszej stronie wykrzykują: śmierć Lachom? Ilu zatrzymaliście tych dziarskich ukraińskich chłopców, którzy przed frontem uciekli na szosy, na trasy, także na polskie szosy? Ilu zatrzymaliście z tych, którzy blokują pasy ruchu, którzy dezorganizują ruch drogowy? Widziałem, że polska Policja osłania ich na wasze polecenie. Pytam: Jakie są statystyki dotyczące zatrzymań przestępców drogowych i podżegaczy do zbrodni?",
+  "meta": "Grzegorz Braun · Konfederacja · 2023-11-29",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "igor",
+   "spans": "igor"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 16,
+    "end": 27,
+    "text": "Mam pytanie",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 16,
+    "end": 27,
+    "text": "Mam pytanie",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 434,
+    "end": 460,
+    "text": "Pytam: Jakie są statystyki",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 434,
+    "end": 460,
+    "text": "Pytam: Jakie są statystyki",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "text": "Brak również w tym projekcie obowiązku realizacji ustawy w każdym powiecie. Ustawa musi gwarantować faktyczną realizację asystencji osobistej w każdej części Polski i, w sytuacji gdy użytkownik tak wybierze, zobowiązywać odpowiedni samorząd do jej realizacji. Zawarta w ustawie prezydenckiej możliwość nierealizowania ustawy z powodu braku możliwości organizacyjnych powiatu lub wysokości środków finansowych przekazywanych powiatowi na ten cel spowoduje de facto, że ustawa może być martwym prawem albo w ogóle nie będzie realizowana.",
+  "meta": "Agnieszka Kłopotek · PSL-TD · 2024-10-01",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 0,
+    "end": 74,
+    "text": "Brak również w tym projekcie obowiązku realizacji ustawy w każdym powiecie",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 76,
+    "end": 120,
+    "text": "Ustawa musi gwarantować faktyczną realizację",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "text": "Pani Marszałek! Panie Premierze! Wysoka Izbo! W uzasadnieniu wniosku o odwołanie ministra Kierwińskiego zadano kilka istotnych pytań, m.in. o skuteczność przeciwdziałania rosyjskim aktom sabotażu i dywersji i reagowania na nie. Nie ma jednak co ukrywać, że w ogromnej mierze to uzasadnienie jest zwyczajnie durne i powiela całą serię prawicowych fiksacji.",
+  "meta": "Maciej Konieczny · Lewica · 2026-06-10",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "igor",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 278,
+    "end": 354,
+    "text": "uzasadnienie jest zwyczajnie durne i powiela całą serię prawicowych fiksacji",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 278,
+    "end": 354,
+    "text": "uzasadnienie jest zwyczajnie durne i powiela całą serię prawicowych fiksacji",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "text": "Nie dla zamordystycznej ustawy Donalda Tuska. Tak dla zdrowego rozsądku. Tak dla polskich firm. Tak dla start-upów. Tak dla niskich, prostych podatków. Naprawdę to jest bardzo proste. Przez rok o to walczyliśmy. Dlatego pan prezydent jest dzisiaj prezydentem. I Donald Tusk wie, że to jest jego afera. Donald Tusk ma doskonale świadomość tego, że afera Zondacrypto to jest afera Amber Gold 2.0. Bo przez 2 lata nie było żadnej reakcji polskiego państwa, kiedy pieniądze z Zondacrypto płynęły do TVN-u,…",
+  "meta": "Janusz Kowalski · PiS · 2026-05-12",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 0,
+    "end": 30,
+    "text": "Nie dla zamordystycznej ustawy",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 0,
+    "end": 44,
+    "text": "Nie dla zamordystycznej ustawy Donalda Tuska",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 46,
+    "end": 71,
+    "text": "Tak dla zdrowego rozsądku",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 73,
+    "end": 94,
+    "text": "Tak dla polskich firm",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 96,
+    "end": 114,
+    "text": "Tak dla start-upów",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 116,
+    "end": 150,
+    "text": "Tak dla niskich, prostych podatków",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 152,
+    "end": 182,
+    "text": "Naprawdę to jest bardzo proste",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 262,
+    "end": 300,
+    "text": "Donald Tusk wie, że to jest jego afera",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "text": "Dziękuję za to piękne świadectwo z jednej strony pana Krzysztofa Ciecióry, a z drugiej strony pana Marcina Skonieczki, a więc dziecka, które wychowywało się w rodzinie wielodzietnej, mówię o Krzysztofie Cieciórze, i ojca w rodzinie wielodzietnej. To są piękne świadectwa rodzin, które mają świadomość tego, jak wielkim trudem, również ekonomicznym, jest utrzymanie takiej rodziny. Odpowiedzmy sobie na to pytanie: Czy chcemy pomóc takim rodzinom? Jeżeli chcemy, to zagłosujcie, szanowni państwo, za tą ustawą albo zaproponujecie lepsze rozwiązanie. Jak powiedziałem, Klub Parlamentarny Prawo i Sprawiedliwość je poprze.",
+  "meta": "Janusz Kowalski · PiS · 2025-01-10",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 447,
+    "end": 547,
+    "text": "Jeżeli chcemy, to zagłosujcie, szanowni państwo, za tą ustawą albo zaproponujecie lepsze rozwiązanie",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 609,
+    "end": 618,
+    "text": "je poprze",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 0,
+    "end": 32,
+    "text": "Dziękuję za to piękne świadectwo",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 381,
+    "end": 412,
+    "text": "Odpowiedzmy sobie na to pytanie",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "text": "Pragnę serdecznie podziękować Ministerstwu Rodziny, Pracy i Polityki Społecznej za uwzględnienie postulatów rodziców. Dotychczasowy stan prawny powodował, że matki wcześniaków rozpoczynały urlop macierzyński w czasie, gdy ich dziecko przebywało w szpitalu. Dzięki tej ustawie sytuacja ulegnie zmianie. Rodzice wcześniaków zyskają nawet 15 dodatkowych tygodni urlopu z tytułu hospitalizacji ich dziecka.",
+  "meta": "Dorota Marek · KO · 2024-11-21",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 0,
+    "end": 29,
+    "text": "Pragnę serdecznie podziękować",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 257,
+    "end": 300,
+    "text": "Dzięki tej ustawie sytuacja ulegnie zmianie",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 322,
+    "end": 350,
+    "text": "zyskają nawet 15 dodatkowych",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "text": "Pani Marszałek! Wysoki Sejmie! Słuchałem dzisiejszego exposé pana premiera. Odniosłem nieodparte wrażenie, że zostało ono napisane na podstawie wpisów i postów w mediach społecznościowych. Niestety, tak to jest, ale część tych wpisów państwo sami tworzyli. Jedno z takich haseł, które państwo wytworzyli, którym pan bardzo sprawnie się posługiwał, to hasło: wyrzynają polskie lasy. Otóż chcę panu powiedzieć, że plany urządzenia lasów, na podstawie których pozyskuje się drewno, zatwierdzone były również za państwa rządów.",
+  "meta": "Edward Siarka · PiS · 2023-12-12",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": null
+ },
+ {
+  "id": 41,
+  "text": "Apeluję do pana prezydenta Karola Nawrockiego, żeby zawetował tę ustawę, żeby uratował tę branżę, uratował ten rynek, żeby nie przyczynił się do niszczenia polskich przedsiębiorców, do utraty wpływów podatkowych wynoszących setki milionów złotych rocznie i dobrze płatnych miejsc pracy, które razem z tymi firmami będą musiały przenieść się za granicę. Bardzo dziękuję.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2025-09-24",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "kacper"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 47,
+    "end": 97,
+    "text": "żeby zawetował tę ustawę, żeby uratował tę branżę,",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 123,
+    "end": 180,
+    "text": "nie przyczynił się do niszczenia polskich przedsiębiorców",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 353,
+    "end": 368,
+    "text": "Bardzo dziękuję",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "text": "Tak jak mówiłam, ten projekt ma przede wszystkim wymiar symboliczny, sprawiedliwościowy. Przywraca poczucie godności, sprawiedliwości, wyrównuje status poszkodowanych względem innych grup objętych dotąd rekompensatami, wzmacnia zaufanie do państwa jako gwaranta praw człowieka. Bardzo proszę, żeby panie i panowie posłowie rozważyli w swoim sumieniu to, o czym mówiłam, i żeby pamiętali o tych ofiarach, o męczennikach spalonych żywcem na Białostocczyźnie. Dziękuję bardzo.",
+  "meta": "Anna Żukowska · Lewica · 2026-02-10",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 457,
+    "end": 472,
+    "text": "Dziękuję bardzo",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 278,
+    "end": 291,
+    "text": "Bardzo proszę",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 278,
+    "end": 386,
+    "text": "Bardzo proszę, żeby panie i panowie posłowie rozważyli w swoim sumieniu to, o czym mówiłam, i żeby pamiętali",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "text": "…o szukaniu dobrych rozwiązań dla polskich dzieci. A więc zachęcam, szanowni państwo, do tego, żeby państwo spojrzeli na naszą propozycję jako nie propozycję polityczną opozycji, tylko propozycję systemową, w której szukamy konsensusu.",
+  "meta": "Janusz Kowalski · PiS · 2025-01-10",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 58,
+    "end": 84,
+    "text": "zachęcam, szanowni państwo",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 143,
+    "end": 234,
+    "text": "nie propozycję polityczną opozycji, tylko propozycję systemową, w której szukamy konsensusu",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "text": "A jeżeli chodzi o krytykę rządu, chodzi o baner przeciwko Tuskowi, to chcecie mi nagle zdejmować immunitet. W takiej formie immunitet nie ma kompletnie żadnego sensu — jeżeli nie służy właśnie obronie opozycji przy krytyce rządu.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2026-06-10",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 134,
+    "end": 165,
+    "text": "nie ma kompletnie żadnego sensu",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "text": "Panie Marszałku! Wysoka Izbo! Chciałem się dowiedzieć — bo projekt zmierza oczywiście w kierunku deregulacji i odejścia od nadmiernych krajowych przepisów — w jakim zakresie dotychczasowe nadregulacje, takie jak tzw. biała lista, wpływały na koszty i konkurencyjność polskich firm audytorskich oraz jednostek zainteresowania publicznego i czy ministerstwo szacuje, o jaki konkretny zakres działalności rozszerzy się funkcjonowanie firm audytorskich po uwzględnieniu czarnej listy, a nie białej. Dziękuję bardzo.",
+  "meta": "Witold Tumanowicz · Konfederacja · 2026-03-25",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 495,
+    "end": 510,
+    "text": "Dziękuję bardzo",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 59,
+    "end": 108,
+    "text": "projekt zmierza oczywiście w kierunku deregulacji",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 174,
+    "end": 200,
+    "text": "dotychczasowe nadregulacje",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "text": "Jako Polska 2050 będziemy jednak głosować za przekazaniem tej ustawy do komisji, licząc na merytoryczną pracę tam i dyskusję. Mam nadzieję, że przedstawiciele prezydenta, że pan minister będzie brał czynny udział w tych pracach.",
+  "meta": "Barbara Oliwiecka · Polska2050-TD · 2025-09-25",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 17,
+    "end": 44,
+    "text": "będziemy jednak głosować za",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "text": "Odczepcie się od Polaków. Nie zagrażajcie nam delegalizacją węgla do tych pieców, którymi ogrzewamy nasze domy. Nie zagrażajcie nam urojeniami klimatycznymi i geopolitycznymi. Wtedy może jakoś powiążemy koniec z końcem.",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-05-15",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+   {
+    "start": 0,
+    "end": 24,
+    "text": "Odczepcie się od Polaków",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 0,
+    "end": 24,
+    "text": "Odczepcie się od Polaków",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 26,
+    "end": 45,
+    "text": "Nie zagrażajcie nam",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 112,
+    "end": 156,
+    "text": "Nie zagrażajcie nam urojeniami klimatycznymi",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 176,
+    "end": 218,
+    "text": "Wtedy może jakoś powiążemy koniec z końcem",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "text": "Otóż ustawa przeprowadzona przez Wysoką Izbę w poprzedniej kadencji wprawdzie z mojego punktu widzenia w sposób dalece niedoskonały, ale zmieniała ten stan korzystnie. Pasjonaci przestawali być kryminalistami. Człowiek, który na plaży z synkiem szuka czegoś wykrywaczem metalu, przestał być narażony na to, że byle, przepraszam, krawężnik — no, na plaży nie ma akurat krawężnika — przyczepi się o to, że posługuje się on nielegalnie nieautoryzowanym urządzeniem.",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-04-10",
+  "sędzia": {
+   "stance": "kacper",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 137,
+    "end": 166,
+    "text": "zmieniała ten stan korzystnie",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 168,
+    "end": 208,
+    "text": "Pasjonaci przestawali być kryminalistami",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "text": "Tak, właśnie słuchałem. Panie Marszałku! Panie Ministrze! Wysoka Izbo! Dziękuję bardzo za te ciepłe słowa pana posła Kowalskiego. Oczywiście czuję podtekst, co do tego nie ma żadnych wątpliwości, ale też pana posła uspokajam: jak są mądre propozycje ze strony opozycji, to zawsze warto je rozważyć, przedyskutować i popierać.",
+  "meta": "Dariusz Wieczorek · Lewica · 2026-03-27",
+  "sędzia": {
+   "stance": "igor",
+   "ton": "zgodni",
+   "spans": "igor"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 226,
+    "end": 297,
+    "text": "jak są mądre propozycje ze strony opozycji, to zawsze warto je rozważyć",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 71,
+    "end": 105,
+    "text": "Dziękuję bardzo za te ciepłe słowa",
+    "labels": [
+     "Agresja"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "text": "Panie Marszałku! Wysoka Izbo! Ustawa umożliwia podmiotom spełniającym określone kryteria odroczenie obowiązku raportowania zrównoważonego rozwoju do końca 2026 r. Ustawa wdraża tę możliwość wprost, bez nadregulacji — i bardzo dobrze. To element ułatwiający, że nie ma tej nadregulacji. Może i jest ograniczony, ale maksymalny w granicach tejże dyrektywy.",
+  "meta": "Witold Tumanowicz · Konfederacja · 2026-02-26",
+  "sędzia": {
+   "stance": "zgodni",
+   "ton": "zgodni",
+   "spans": "kacper"
+  },
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+   {
+    "start": 0,
+    "end": 29,
+    "text": "Panie Marszałku! Wysoka Izbo!",
+    "labels": [
+     "Agresja"
+    ]
+   },
+   {
+    "start": 219,
+    "end": 233,
+    "text": "bardzo dobrze.",
+    "labels": [
+     "Kontekst"
+    ]
+   },
+   {
+    "start": 349,
+    "end": 350,
+    "text": "t",
+    "labels": [
+     "Kontekst"
+    ]
+   }
+  ]
+ }
+]

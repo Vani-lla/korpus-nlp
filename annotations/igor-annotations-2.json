@@ -1,0 +1,1334 @@
+[
+{
+  "id": 101,
+  "text": "Wysoka Izbo! Przedłożony projekt ma na celu stworzenie spójnego systemu wykonywania orzeczeń Europejskiego Trybunału Praw Człowieka, obejmującego zarówno mechanizmy koordynacyjne, jak i konkretne obowiązki podmiotów publicznych. Z uwagi na to, że mamy do czynienia z pierwszym czytaniem, klub Lewicy opowiada się za skierowaniem projektu ustawy do dalszych prac w komisji, gdzie możliwa będzie szczegółowa analiza zaproponowanych rozwiązań. Dziękuję bardzo.",
+  "meta": "Arkadiusz Sikora · Lewica · 2026-04-16",
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+    {
+      "start": 313,
+      "end": 315,
+      "text": "za",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 300,
+      "end": 315,
+      "text": "opowiada się za",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 441,
+      "end": 456,
+      "text": "Dziękuję bardzo",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 152,
+  "created_at": "2026-10-20T18:30:24.576418Z",
+  "updated_at": "2026-10-20T18:30:24.576437Z",
+  "lead_time": 39.666
+},
+{
+  "id": 102,
+  "text": "Jeśli chodzi o podstawowe prawa człowieka, to powiedzmy otwarcie. To nie jest tak, że aborcja jest de facto, stricte… Nie nazwiemy tego prawem człowieka, bo nie jest ona wpisana w żadnej konwencji, ale ona wywodzi się, bo chodzi tu o prawo reprodukcyjne kobiet, już konkretnie z praw podstawowych, właśnie prawa do życia, najwyższego osiągalnego poziomu zdrowia fizycznego i psychicznego, korzystania z postępu naukowego i jego realizacji, a także prawa do samostanowienia oraz do wolności od tortur, okrutnego, nieludzkiego i poniżającego traktowania.",
+  "meta": "Anna Żukowska · Lewica · 2024-04-11",
+  "ton": "zwykły",
+  "stance": "sprzeciwia się",
+  "spans": [
+    {
+      "start": 66,
+      "end": 81,
+      "text": "To nie jest tak",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 153,
+  "created_at": "2026-10-20T18:31:40.326542Z",
+  "updated_at": "2026-10-20T18:31:40.326554Z",
+  "lead_time": 62.411
+},
+{
+  "id": 103,
+  "text": "Panie Marszałku! Wysoka Izbo! Dyskutujemy o zmianach w składach osobowych komisji. Dziś chce się odwołać mnie z Komisji Infrastruktury, w której pracuję. Mam nadzieję, że nie jest to związane z tym, że rząd boi się moich trudnych pytań w zakresie transportu. Bardzo żałuję, że nie chce się korzystać z moich kompetencji, a także z sieci ekspertów, z którymi współpracuję.",
+  "meta": "Paulina Matysiak · Lewica · 2024-10-01",
+  "ton": "zwykły",
+  "stance": "sprzeciwia się",
+  "spans": [
+    {
+      "start": 0,
+      "end": 15,
+      "text": "Panie Marszałku",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 259,
+      "end": 272,
+      "text": "Bardzo żałuję",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 154,
+  "created_at": "2026-10-20T18:32:33.889421Z",
+  "updated_at": "2026-10-20T18:32:33.889432Z",
+  "lead_time": 53.24
+},
+{
+  "id": 104,
+  "text": "Tak jak powiedziałam, działamy wielotorowo. Naszym drugim celem w tym zakresie jest sprzątanie nielegalnych wysypisk i oczywiście ich zabezpieczenie. Chodzi o to, by tego typu miejsca w Polsce nigdy już na taką skalę nie powstawały. Samorządowcy oczywiście mają lekcję życia. Widzą, jak potem trudno walczyć z taką lokalizacją. Natomiast ewidentnie musimy zabezpieczyć to na poziomie prawa i przepisów, uszczelnić ten system. Ustawa uszczelniająca przepisy w tym zakresie jest jednym z priorytetów departamentu gospodarki odpadami na ten rok. Dziękuję bardzo.",
+  "meta": "Paulina Hennig-Kloska · Polska2050-TD · 2025-02-21",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+    {
+      "start": 543,
+      "end": 558,
+      "text": "Dziękuję bardzo",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 155,
+  "created_at": "2026-10-20T18:33:17.109499Z",
+  "updated_at": "2026-10-20T18:33:17.109512Z",
+  "lead_time": 42.925
+},
+{
+  "id": 105,
+  "text": "Ten projekt jest bublem. Postaram się podać kilka argumentów. W wyniku jego przyjęcia damy możliwość właściwie dowolnej interpretacji przepisów i tym samym wejścia pseudoaktywistów do waszego mieszkania, do waszego domu, do waszej zagrody i odebrania wam zwierzęcia. Do tej pory odbywało się to na mocy decyzji urzędowej. Według projektu miałoby to się dziać również na wniosek organizacji społecznej.",
+  "meta": "Krzysztof Mulawa · Konfederacja · 2024-11-22",
+  "ton": "agresywny",
+  "spans": [
+    {
+      "start": 17,
+      "end": 23,
+      "text": "bublem",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 164,
+      "end": 180,
+      "text": "pseudoaktywistów",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "stance": "sprzeciwia się",
+  "annotator": 2,
+  "annotation_id": 156,
+  "created_at": "2026-10-20T18:34:52.118734Z",
+  "updated_at": "2026-10-20T18:34:52.118747Z",
+  "lead_time": 94.701
+},
+{
+  "id": 106,
+  "text": "Druga grupa zmian to te mające na celu zdjęcie pewnej niepotrzebnej odpowiedzialności z barków przedsiębiorców. Chodzi o skrócenie terminu, w którym może być realizowana kontrola w przedsiębiorstwie, czy skrócenie czasu, w którym postępowanie może być zawieszone z jakiegoś powodu, którego dany organ kontrolujący nie jest w stanie przez kilka lat zlikwidować. Oczywiście jest jeszcze parę innych rozwiązań. To na pewno jest kwestia, która będzie pozwalała wielu przedsiębiorcom spać spokojniej.",
+  "meta": "Adam Gomoła · Polska2050-TD · 2025-04-03",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 157,
+  "created_at": "2026-10-20T18:34:58.586173Z",
+  "updated_at": "2026-10-20T18:34:58.586185Z",
+  "lead_time": 6.148
+},
+{
+  "id": 107,
+  "text": "Zostało odwołanych 18 dyrektorów instytucji kultury — to dewastacja kultury polskiej na bezprecedensową skalę. Szczególnie chcielibyśmy zapytać o powody odwołania pani Doroty Janiszewskiej-Jakubiak. Jest to długoletnia apolityczna urzędniczka ministerstwa kultury i dziedzictwa narodowego, od 20 lat tworząca polską politykę w obszarze polskiego dziedzictwa kulturowego za granicą. Opieka nad zabytkami, które są polskim dziedzictwem za granicą, na Wschodzie, ale także w innych krajach, opieka nad instytucjami, które są instytucjami kultury tam, gdzie za granicą funkcjonują, działają Polonia i Polacy — to jest olbrzymi dorobek.",
+  "meta": "Piotr Gliński · PiS · 2024-05-09",
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+    {
+      "start": 57,
+      "end": 67,
+      "text": "dewastacja",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 88,
+      "end": 103,
+      "text": "bezprecedensową",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 158,
+  "created_at": "2026-10-20T18:35:45.161015Z",
+  "updated_at": "2026-10-20T18:35:45.161029Z",
+  "lead_time": 46.257
+},
+{
+  "id": 108,
+  "text": "Pan marszałek, w moim przekonaniu, złamał również prawo. Konstytucja: art. 54, zakazujący cenzury prewencyjnej. Ale wyjdźmy z tego konstruktywnie i ofensywnie. Składam wniosek o odroczenie posiedzenia do czasu, aż pan marszałek przedstawi Wysokiej Izbie listę, słownik wyrazów, związków frazeologicznych zakazanych w Wysokiej Izbie. Proszę, panie marszałku, zaproponować taki załącznik do regulaminu, może Wysoka Izba go przyjmie, bo Wysoka Izba jest doświadczona w braniu samej siebie za twarz, więc może zechce łyknąć taki knebel. I wtedy…",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-02-09",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+    {
+      "start": 15,
+      "end": 33,
+      "text": "w moim przekonaniu",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 333,
+      "end": 339,
+      "text": "Proszę",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 159,
+  "created_at": "2026-10-20T18:36:33.778812Z",
+  "updated_at": "2026-10-20T18:36:33.778824Z",
+  "lead_time": 48.322
+},
+{
+  "id": 109,
+  "text": "Kolejny problem. Ta ustawa ma wejść w życie już 1 stycznia 2025 r. Zapisaliście w umowie koalicyjnej, że ustawy podatkowe będą przyjmowane z 6-miesięcznym vacatio legis. Do 1 stycznia jest znacznie mniej niż 6 miesięcy. Mieliście mnóstwo czasu na wdrożenie tej dyrektywy. Wzięliście się do tego na sam koniec.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2024-10-16",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 160,
+  "created_at": "2026-10-20T18:36:48.448339Z",
+  "updated_at": "2026-10-20T18:36:48.448350Z",
+  "lead_time": 14.377
+},
+{
+  "id": 110,
+  "text": "…żeby Polska dalej w to brnęła, niszcząc swój przemysł i zwiększając koszty życia Polakom? Nie ma żadnego. Jeżeli w tej sytuacji Unia Europejska dalej będzie utrzymywała zielony ład, to będzie to nie tylko samobójstwo gospodarcze i skrajna głupota, ale świadectwo prawdziwego obłędu. Na szczęście świat się zmienia. Ten lewicowy eksperyment oczywiście nie wypalił.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2025-01-22",
+  "ton": "agresywny",
+  "stance": "sprzeciwia się",
+  "spans": [
+    {
+      "start": 232,
+      "end": 247,
+      "text": "skrajna głupota",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 276,
+      "end": 282,
+      "text": "obłędu",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 352,
+      "end": 363,
+      "text": "nie wypalił",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 320,
+      "end": 340,
+      "text": "lewicowy eksperyment",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 206,
+      "end": 217,
+      "text": "samobójstwo",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 161,
+  "created_at": "2026-10-20T18:38:05.174088Z",
+  "updated_at": "2026-10-20T18:38:05.174101Z",
+  "lead_time": 76.445
+},
+{
+  "id": 111,
+  "text": "Wczoraj w Zamościu rozpoczął się XXII Eurofolk. Od ponad 20 lat zespoły z całego świata przyjeżdżają do Zamościa, ale też i do wielu innych miast w Polsce prezentować swoją kulturę. Wczoraj po koncercie grupy Zamojszczyzna granym dla gości, kiedy udawali się do hoteli, zostali zaatakowani wulgaryzmami przez takie osoby, które są przez was podburzane, żeby nienawidzić innych.",
+  "meta": "Sławomir Ćwik · Polska2050-TD · 2025-07-09",
+  "ton": "zwykły",
+  "stance": "neutralna",
+  "annotator": 2,
+  "annotation_id": 162,
+  "created_at": "2026-10-20T18:39:28.842456Z",
+  "updated_at": "2026-10-20T18:39:28.842468Z",
+  "lead_time": 83.367
+},
+{
+  "id": 112,
+  "text": "Ostatnia zawetowana ustawa, dotycząca przepisów, jeśli chodzi o oświatę, pokazała, że pan prezydent zawetował przepisy, których nie było w ustawie. Nie wydaje się, że to świadczy o powadze urzędu prezydenta i powadze wet, które stosuje od wielu miesięcy pan prezydent. Dziękuję bardzo.",
+  "meta": "Jerzy Meysztowicz · KO · 2026-01-08",
+  "spans": [
+    {
+      "start": 269,
+      "end": 284,
+      "text": "Dziękuję bardzo",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 9,
+      "end": 19,
+      "text": "zawetowana",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "ton": "zwykły",
+  "stance": "sprzeciwia się",
+  "annotator": 2,
+  "annotation_id": 163,
+  "created_at": "2026-10-20T18:40:37.463748Z",
+  "updated_at": "2026-10-20T18:40:37.463761Z",
+  "lead_time": 68.322
+},
+{
+  "id": 113,
+  "text": "Po piąte, będziemy budować nowe żłobki, aby rodzice mogli spokojnie wrócić do pracy, zostawiając dzieci pod dobrą opieką i nie wydając na to ogromnych pieniędzy. Będziemy również tworzyć nowe przedszkola, aby wyrównywać szanse edukacyjne dzieci.",
+  "meta": "Anna Żukowska · Lewica · 2023-12-12",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 164,
+  "created_at": "2026-10-20T18:40:51.094256Z",
+  "updated_at": "2026-10-20T18:40:51.094268Z",
+  "lead_time": 13.334
+},
+{
+  "id": 114,
+  "text": "Szanowna Pani Marszałek! Panie Ministrze! Wysoka Izbo! W imieniu Klubu Parlamentarnego Polskie Stronnictwo Ludowe przedstawię nasze stanowisko odnośnie do rządowego projektu ustawy o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw.",
+  "meta": "Mirosław Orliński · PSL-TD · 2026-09-18",
+  "spans": [
+    {
+      "start": 0,
+      "end": 23,
+      "text": "Szanowna Pani Marszałek",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 25,
+      "end": 40,
+      "text": "Panie Ministrze",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 42,
+      "end": 53,
+      "text": "Wysoka Izbo",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 165,
+  "created_at": "2026-10-20T18:41:21.643562Z",
+  "updated_at": "2026-10-20T18:41:21.643576Z",
+  "lead_time": 30.251
+},
+{
+  "id": 115,
+  "text": "Chcieliście naprawić sądownictwo. Sądownictwo jest w najgorszym stanie od dawna, a czas postępowań sądowych oczywiście się wydłużył. Chcieliście zwiększyć inwestycje względem PKB do 25%, spadły do 16%. W ostatnich latach tylko targana kryzysami na skraju bankructwa Grecja miała gorszy wynik. Okazało się, że prawie nikt nie chce inwestować w kraju przez was rządzonym.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2023-12-11",
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+    {
+      "start": 108,
+      "end": 118,
+      "text": "oczywiście",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 349,
+      "end": 358,
+      "text": "przez was",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 53,
+      "end": 63,
+      "text": "najgorszym",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 166,
+  "created_at": "2026-10-20T18:47:30.679002Z",
+  "updated_at": "2026-10-20T18:47:30.679022Z",
+  "lead_time": 368.719
+},
+{
+  "id": 116,
+  "text": "Czy wyście naprawdę oszaleli? Emeryci, którzy mają 1800–2000 zł netto, będą musieli teraz szukać dodatkowych 100–150 zł, żeby opłacić rachunki, by się utrzymać. Z czego zrezygnują? Z jedzenia? Gdzie są te wszystkie wolne media, które się spotykały z Donaldem Tuskiem i mówiły o tym, jak ważne są wolne media? Gdzie są te TVN-y, te Onety, kiedy proceduje się nad projektem obywatelskim podpisanym przez 140 tys. obywateli? Gdzie jesteście?",
+  "meta": "Janusz Kowalski · PiS · 2024-07-11",
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+    {
+      "start": 20,
+      "end": 28,
+      "text": "oszaleli",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 20,
+      "end": 28,
+      "text": "oszaleli",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 167,
+  "created_at": "2026-10-20T18:48:29.320710Z",
+  "updated_at": "2026-10-20T18:48:29.320724Z",
+  "lead_time": 58.323
+},
+{
+  "id": 117,
+  "text": "To są rzeczy, którymi zajmujemy się w rządzie. Ja odpieram tezy i nie zgadzam się absolutnie z tezami, że rząd nie podołał, że nie było współpracy, że służby ze sobą nie współdziałały. Wszystko to, co dzisiaj padło na tej sali, dobitnie pokazuje, że rząd działa doskonale i że wszystkie rzeczy są przeprowadzane profesjonalnie.",
+  "meta": "Anna Żukowska · Lewica · 2024-09-25",
+  "spans": [
+    {
+      "start": 66,
+      "end": 77,
+      "text": "nie zgadzam",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 168,
+  "created_at": "2026-10-20T18:49:30.107338Z",
+  "updated_at": "2026-10-20T18:49:30.107351Z",
+  "lead_time": 60.454
+},
+{
+  "id": 118,
+  "text": "Oprócz tego w tym projekcie znalazła się propozycja przepisu nakazującego sędziom w pierwszej kolejności orzekać na podstawie prawa Unii Europejskiej. Sam taki zapis w rozporządzeniu jest kuriozalny i niekonstytucyjny. Rozporządzenie nie może nakazywać, na podstawie czego sędzia ma orzekać. Zgodnie z konstytucją sędzia podlega tylko konstytucji i ustawom, a nie Brukseli. Absurd tego wątku można rozpatrywać na wielu płaszczyznach.",
+  "meta": "Grzegorz Lorek · PiS · 2023-12-21",
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "spans": [
+    {
+      "start": 188,
+      "end": 217,
+      "text": "kuriozalny i niekonstytucyjny",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 169,
+  "created_at": "2026-10-20T18:50:06.799616Z",
+  "updated_at": "2026-10-20T18:50:06.799631Z",
+  "lead_time": 36.405
+},
+{
+  "id": 119,
+  "text": "Przeczytam państwu wiadomość, którą otrzymałem: Mógłbyś tym wszystkim… powiedzieć, że miałeś przyjemność obcowania przez kilka dni z chłopcem, który został poczęty metodą in vitro. Nie miał kropki ani bruzdy na czole. Był szczęśliwym, uśmiechniętym, kochanym przez swoich rodziców dzieckiem.",
+  "meta": "Grzegorz Rusiecki · KO · 2023-11-29",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+    {
+      "start": 11,
+      "end": 18,
+      "text": "państwu",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 170,
+  "created_at": "2026-10-20T18:50:21.319266Z",
+  "updated_at": "2026-10-20T18:50:21.319279Z",
+  "lead_time": 14.23
+},
+{
+  "id": 120,
+  "text": "Martwicie się inflacją. Chcę powiedzieć tak. W 2010 r. wyszliśmy z trudnej sytuacji. A w Unii Europejskiej dług do PKB mają np. Włochy — 138%…",
+  "meta": "Krystyna Skowrońska · KO · 2026-07-30",
+  "ton": "zwykły",
+  "stance": "neutralna",
+  "annotator": 2,
+  "annotation_id": 171,
+  "created_at": "2026-10-20T18:50:41.909955Z",
+  "updated_at": "2026-10-20T18:50:41.909968Z",
+  "lead_time": 20.298
+},
+{
+  "id": 121,
+  "text": "Pani Marszałek! Panie Ministrze! Oczywiście to jest problem bulwersujący, że absolwenci polskich szkół z maturami polskimi, którzy na co dzień mówią po polsku, nie są automatycznie zwalniani w zakresie tego języka.",
+  "meta": "Andrzej Zapałowski · Konfederacja · 2025-07-25",
+  "ton": "zwykły",
+  "spans": [
+    {
+      "start": 0,
+      "end": 14,
+      "text": "Pani Marszałek",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 16,
+      "end": 31,
+      "text": "Panie Ministrze",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 33,
+      "end": 43,
+      "text": "Oczywiście",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "stance": "popiera",
+  "annotator": 2,
+  "annotation_id": 172,
+  "created_at": "2026-10-20T18:51:17.040912Z",
+  "updated_at": "2026-10-20T18:51:17.040926Z",
+  "lead_time": 34.832
+},
+{
+  "id": 122,
+  "text": "Pani Marszałek! Wysoka Izbo! Dominik z Bieżunia, Kacper, Wiktor, Milo Mazurkiewicz, Michał — te osoby padły ofiarą mowy nienawiści. Nie wytrzymały tego. Dokonały zamachu na swoje życie, niestety skutecznie. Część z nich to były bardzo młode osoby, kilkunastoletnie, to były dzieci. Zrobiły to, bo nie wytrzymały fali hejtu, która spotykała je tylko i wyłącznie z jednego powodu — z powodu ich tożsamości psychoseksualnej lub orientacji płciowej.",
+  "meta": "Anna Żukowska · Lewica · 2024-12-19",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "spans": [
+    {
+      "start": 0,
+      "end": 14,
+      "text": "Pani Marszałek",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 16,
+      "end": 27,
+      "text": "Wysoka Izbo",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 173,
+  "created_at": "2026-10-20T18:52:41.531231Z",
+  "updated_at": "2026-10-20T18:52:41.531245Z",
+  "lead_time": 84.132
+},
+{
+  "id": 123,
+  "text": "Opinia publiczna jest albo mamiona, łudzona, usypiana unikaniem podania informacji na temat narodowości przestępcy, albo też od czasu do czasu jednak doznaje szoku, jak w ostatnich dniach, kiedy okazało się, że na warszawskiej Woli jakiś osobnik, właśnie przybysz z Ukrainy, urządził składowisko ciał swoich ofiar. Co tam było, to może wykaże dalsze śledztwo.",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-04-11",
+  "ton": "zwykły",
+  "stance": "neutralna",
+  "annotator": 2,
+  "annotation_id": 174,
+  "created_at": "2026-10-20T18:53:21.814640Z",
+  "updated_at": "2026-10-20T18:53:21.814653Z",
+  "lead_time": 39.953
+},
+{
+  "id": 124,
+  "text": "Ja tylko zwrócę uwagę na te obco brzmiące nazwiska. To będzie clou dzisiejszego wystąpienia pana ministra. Tabloidy się kłaniają. A tak między nami, faktycznie instytut budował swoją bazę i dlatego takie było zatrudnienie — bo dopiero budował. Gdyby Wawel dopiero miał być zbudowany, panie ministrze, to trzeba by nieco większe nakłady na Zamek Królewski…",
+  "meta": "Piotr Gliński · PiS · 2025-03-07",
+  "ton": "zwykły",
+  "stance": "neutralna",
+  "spans": [
+    {
+      "start": 284,
+      "end": 299,
+      "text": "panie ministrze",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 175,
+  "created_at": "2026-10-20T18:54:40.099164Z",
+  "updated_at": "2026-10-20T18:54:40.099178Z",
+  "lead_time": 77.971
+},
+{
+  "id": 125,
+  "text": "Znowu jakąś imprezę robicie. Co, znowu wam banki zapłaciły? Ty kompletnie nie rozumiesz, co znaczy bronić polskich firm, bo ty bierzesz pieniądze od Niemców i tym się różnimy.",
+  "meta": "Janusz Kowalski · PiS · 2026-05-12",
+  "ton": "agresywny",
+  "spans": [
+    {
+      "start": 74,
+      "end": 87,
+      "text": "nie rozumiesz",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 127,
+      "end": 156,
+      "text": "bierzesz pieniądze od Niemców",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 74,
+      "end": 87,
+      "text": "nie rozumiesz",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "stance": "sprzeciwia się",
+  "annotator": 2,
+  "annotation_id": 176,
+  "created_at": "2026-10-20T18:57:37.099147Z",
+  "updated_at": "2026-10-20T18:57:37.099161Z",
+  "lead_time": 176.679
+},
+{
+  "id": 126,
+  "text": "Co się stało z waszymi obietnicami? Zamiast tego zajęliście się walką z bobrami, z alkotubkami, robieniem sobie zdjęć na wałach i wsadzaniem swoich kolesi do spółek.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2024-10-16",
+  "stance": "sprzeciwia się",
+  "spans": [
+    {
+      "start": 0,
+      "end": 34,
+      "text": "Co się stało z waszymi obietnicami",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 148,
+      "end": 154,
+      "text": "kolesi",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 130,
+      "end": 140,
+      "text": "wsadzaniem",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "ton": "agresywny",
+  "annotator": 2,
+  "annotation_id": 177,
+  "created_at": "2026-10-20T18:58:40.923060Z",
+  "updated_at": "2026-10-20T18:58:40.923073Z",
+  "lead_time": 63.485
+},
+{
+  "id": 127,
+  "text": "Szanowni Państwo! Wiecie, dlaczego przegrywamy w Unii Europejskiej? Dlatego że jest część Polski, która zawsze głosuje w Brukseli za Polską, i jest część niestety tego Sejmu, europosłowie Platformy Obywatelskiej czy Lewicy, którzy głosują zawsze za Brukselą i Niemcami. Jak mamy wygrywać w Unii Europejskiej, jak nie mówimy polskim zdaniem, polskim głosem w Brukseli?",
+  "meta": "Janusz Kowalski · PiS · 2025-07-10",
+  "ton": "zwykły",
+  "stance": "sprzeciwia się",
+  "spans": [
+    {
+      "start": 0,
+      "end": 16,
+      "text": "Szanowni Państwo",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 178,
+  "created_at": "2026-10-20T18:59:23.469057Z",
+  "updated_at": "2026-10-20T18:59:23.469076Z",
+  "lead_time": 42.242
+},
+{
+  "id": 128,
+  "text": "Cyfryzacja rejestrów organizacji pozarządowych, fundacji i zakładów opieki zdrowotnej Nowe przepisy rozszerzają zakres prowadzenia akt rejestrowych w formie teleinformatycznej, w tym dla organizacji pozarządowych — stowarzyszeń — fundacji i SPZOZ-ów. Wnioski o wpis mają być składane wyłącznie drogą elektroniczną. To krok w kierunku pełnej elektronizacji rejestrów nie tylko przedsiębiorców.",
+  "meta": "Katarzyna Ueberhan · Lewica · 2025-09-25",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 179,
+  "created_at": "2026-10-20T18:59:46.179133Z",
+  "updated_at": "2026-10-20T18:59:46.179146Z",
+  "lead_time": 22.401
+},
+{
+  "id": 129,
+  "text": "Panie Marszałku! Przyszła ta cała koalicja strachu, koalicja stołków z kierownikiem na czele Donaldem Tuskiem. Przyszedł do Sejmu, żeby bronić najbardziej niekompetentnego ministra środowiska od 1989 r. Paulina Hennig-Kloska to jest w ogóle symbol w polskiej polityce, bo takie kloskowanie to jest przyspawanie do stołka. I mamy oczywiście naszego spawacza, niemieckiego spawacza, czyli Tuska, który bał się i boi się, czy ten rząd dzisiaj upadnie.",
+  "meta": "Janusz Kowalski · PiS · 2026-04-30",
+  "spans": [
+    {
+      "start": 387,
+      "end": 392,
+      "text": "Tuska",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 358,
+      "end": 379,
+      "text": "niemieckiego spawacza",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 440,
+      "end": 447,
+      "text": "upadnie",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "stance": "sprzeciwia się",
+  "ton": "agresywny",
+  "annotator": 2,
+  "annotation_id": 180,
+  "created_at": "2026-10-20T19:00:28.039353Z",
+  "updated_at": "2026-10-20T19:00:28.039366Z",
+  "lead_time": 41.578
+},
+{
+  "id": 130,
+  "text": "Życzę, nawiasem mówiąc, zdrowia panu ministrowi Ziobrze. Pan minister Ziobro był osobą, która miała największy wpływ na wymiar sprawiedliwości w całych dziejach III RP, prawie 11 lat sprawował tę funkcję. Mógł zrobić wiele, mógł naprawdę zrobić wszystko, mógł zrobić, żeby to tak śmigało fantastycznie, żebyśmy mieli szybkie postępowania, ale zajmował się głównie upolitycznianiem wymiaru sprawiedliwości.",
+  "meta": "Anna Żukowska · Lewica · 2024-02-22",
+  "ton": "zwykły",
+  "spans": [
+    {
+      "start": 24,
+      "end": 55,
+      "text": "zdrowia panu ministrowi Ziobrze",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 364,
+      "end": 380,
+      "text": "upolitycznianiem",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "stance": "sprzeciwia się",
+  "annotator": 2,
+  "annotation_id": 181,
+  "created_at": "2026-10-20T19:02:48.373559Z",
+  "updated_at": "2026-10-20T19:02:48.373574Z",
+  "lead_time": 140.025
+},
+{
+  "id": 131,
+  "text": "…ani poseł Romanowski, który udał się na emigrację do pięknego Budapesztu. Żaden z nich nie podpisał się pod projektem tej ustawy. Oczywiście zastanawia mnie, dlaczego, dlaczego nie chcieli przeprowadzać tych zmian wtedy, kiedy mieli realny wpływ na możliwość przeprowadzenia tej zmiany, pełne narzędzia do tego, ani nawet nie podpisali się pod tym projektem, który dzisiaj składają.",
+  "meta": "Sławomir Ćwik · Polska2050-TD · 2025-05-09",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 182,
+  "created_at": "2026-10-20T19:02:59.899676Z",
+  "updated_at": "2026-10-20T19:02:59.899688Z",
+  "lead_time": 11.199
+},
+{
+  "id": 132,
+  "text": "Może dla urozmaicenia, jeszcze jedna prośba, panie marszałku, jeśli pan pozwoli. Będę również zainteresowany danymi zbiorczymi dotyczącymi poprzednich kadencji i poprzednich rządów. Tak z 10 lat może np. pani minister zechce sprawdzić, kto był nosicielem obcych paszportów, a jednocześnie należał do rządu i podległych rządowi jednostek. Dziękuję bardzo.",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-05-23",
+  "spans": [
+    {
+      "start": 338,
+      "end": 353,
+      "text": "Dziękuję bardzo",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 45,
+      "end": 60,
+      "text": "panie marszałku",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 81,
+      "end": 108,
+      "text": "Będę również zainteresowany",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "ton": "zwykły",
+  "stance": "popiera",
+  "annotator": 2,
+  "annotation_id": 183,
+  "created_at": "2026-10-20T19:05:02.994088Z",
+  "updated_at": "2026-10-20T19:05:02.994103Z",
+  "lead_time": 122.802
+},
+{
+  "id": 133,
+  "text": "Panie Marszałku! Wysoka Izbo! Czy podmioty zatrudniające cudzoziemców ubiegających się o pobyt czasowy, pobyt stały lub pobyt rezydenta długoterminowego Unii Europejskiej będą mogły sprawdzać status sprawy? Mogłoby to uchronić pracodawców przed zatrudnieniem cudzoziemca, którego pobyt jest nielegalny. Czy rząd posiada kalkulacje dotyczące tego, jak ta ustawa wpłynie na zwiększenie liczby cudzoziemców, których pobyt zostanie zalegalizowany w ramach połączenia się z rodziną? Dziękuję bardzo.",
+  "meta": "Witold Tumanowicz · Konfederacja · 2025-10-15",
+  "spans": [
+    {
+      "start": 0,
+      "end": 15,
+      "text": "Panie Marszałku",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 17,
+      "end": 28,
+      "text": "Wysoka Izbo",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 477,
+      "end": 493,
+      "text": " Dziękuję bardzo",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "ton": "zwykły",
+  "stance": "neutralna",
+  "annotator": 2,
+  "annotation_id": 184,
+  "created_at": "2026-10-20T19:05:18.842525Z",
+  "updated_at": "2026-10-20T19:05:18.842538Z",
+  "lead_time": 15.513
+},
+{
+  "id": 134,
+  "text": "Krzyż jest znakiem standardu cywilizacyjnego istotnego i dla wierzących, i dla indyferentnych, i dla ludzi religijnych, i dla ludzi obojętnych. Krzyż jest znakiem — uwaga — równości wobec prawa, która jest konceptem prawnoustrojowym niewystępującym tam, gdzie nie jest znany znak krzyża.",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-05-22",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 185,
+  "created_at": "2026-10-20T19:05:44.569347Z",
+  "updated_at": "2026-10-20T19:05:44.569359Z",
+  "lead_time": 25.422
+},
+{
+  "id": 135,
+  "text": "Chciałabym się zwrócić do pana posła Brauna. Panie pośle, dwukrotnie obraził pan polskich zootechników. Podczas wystąpienia w ubiegłym tygodniu i wczoraj podczas swojego wystąpienia. Jestem zootechnikiem, mój mąż jest zootechnikiem i mój syn jest zootechnikiem.",
+  "meta": "Agnieszka Kłopotek · PSL-TD · 2023-11-29",
+  "ton": "agresywny",
+  "stance": "neutralna",
+  "spans": [
+    {
+      "start": 69,
+      "end": 76,
+      "text": "obraził",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "text": "się zwrócić",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 186,
+  "created_at": "2026-10-20T19:06:21.470395Z",
+  "updated_at": "2026-10-20T19:06:21.470409Z",
+  "lead_time": 36.614
+},
+{
+  "id": 136,
+  "text": "131 dni to czas, kiedy informacja została udzielona przez rząd Polski… …nawet już po tej informacji od obywatelki, której mam nadzieję, że pan minister Błaszczak wysłał kwiaty, bo to ona znalazła tą rakietę.",
+  "meta": "Władysław Kosiniak-Kamysz · PSL-TD · 2026-07-31",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 187,
+  "created_at": "2026-10-20T19:06:28.456168Z",
+  "updated_at": "2026-10-20T19:06:28.456180Z",
+  "lead_time": 6.671
+},
+{
+  "id": 137,
+  "text": "Popieramy ten projekt ustawy jak każdy inny dobry projekt ustawy, który został przygotowany przez Prawo i Sprawiedliwość, odrzucony, a potem zgłoszony przez rząd Donalda Tuska. Dziękuję.",
+  "meta": "Janusz Kowalski · PiS · 2026-03-27",
+  "stance": "popiera",
+  "spans": [
+    {
+      "start": 0,
+      "end": 9,
+      "text": "Popieramy",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 177,
+      "end": 185,
+      "text": "Dziękuję",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 188,
+  "created_at": "2026-10-20T19:06:57.125257Z",
+  "updated_at": "2026-10-20T19:06:57.125270Z",
+  "lead_time": 28.393
+},
+{
+  "id": 138,
+  "text": "Panie Marszałku! Szanowni Państwo! Najbardziej prorosyjski premier III RP Donald Tusk zablokował budowę Baltic Pipe, zabudował połączenie Odessa -Brody — Płock — Gdańsk, umorzył 1 mld zł Gazpromowi i chciał przedłużenia kontraktu z Gazpromem o 15 lat, do 2037 r.",
+  "meta": "Janusz Kowalski · PiS · 2024-05-23",
+  "spans": [
+    {
+      "start": 0,
+      "end": 15,
+      "text": "Panie Marszałku",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 17,
+      "end": 33,
+      "text": "Szanowni Państwo",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 47,
+      "end": 58,
+      "text": "prorosyjski",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "stance": "neutralna",
+  "ton": "agresywny",
+  "annotator": 2,
+  "annotation_id": 189,
+  "created_at": "2026-10-20T19:07:51.784922Z",
+  "updated_at": "2026-10-20T19:07:51.784937Z",
+  "lead_time": 54.346
+},
+{
+  "id": 139,
+  "text": "Przypominam, że rząd Prawa i Sprawiedliwości w 2018 r. zawarł umowę o wartości prawie 5 mld dolarów na 208 pocisków do baterii Patriot, 11 pocisków testowych, dwie baterie Patriot, system dowodzenia IBCS, 16 wyrzutni i radary. Nam trudno przyszło, wam łatwo poszło. Dziękuję bardzo.",
+  "meta": "Waldemar Andzel · PiS · 2026-07-17",
+  "spans": [
+    {
+      "start": 266,
+      "end": 281,
+      "text": "Dziękuję bardzo",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "ton": "zwykły",
+  "stance": "neutralna",
+  "annotator": 2,
+  "annotation_id": 190,
+  "created_at": "2026-10-20T19:08:18.953266Z",
+  "updated_at": "2026-10-20T19:08:18.953279Z",
+  "lead_time": 26.861
+},
+{
+  "id": 140,
+  "text": "1. Jakie konkretne problemy funkcjonowania obecnego systemu nadzoru nad lotnictwem cywilnym mają zostać rozwiązane przez proponowane zmiany w ustawie? 2. Czy przeprowadzono analizę wpływu proponowanych regulacji na poziom bezpieczeństwa operacji lotniczych, w szczególności w kontekście nadzoru nad liniami lotniczymi, operatorami lotnisk oraz firmami obsługi technicznej?",
+  "meta": "Marcin Józefaciuk · KO · 2026-03-11",
+  "ton": "zwykły",
+  "stance": "neutralna",
+  "annotator": 2,
+  "annotation_id": 191,
+  "created_at": "2026-10-20T19:08:36.728228Z",
+  "updated_at": "2026-10-20T19:08:36.728242Z",
+  "lead_time": 17.485
+},
+{
+  "id": 141,
+  "text": "Historia użycia przez rząd PiS-u, przez służby PiS-u Pegasusa od samego początku jest historią działań nielegalnych, niemoralnych, wręcz obrzydliwych. Zaczęło się od tego, że nielegalnie przekazano z Funduszu Sprawiedliwości 25 mln zł do CBA, następnie CBA nielegalnie kupiło oprogramowanie niezgodne z polskim prawem, a następnie to nielegalnie sfinansowane i nielegalnie zakupione oprogramowanie używało w nielegalnym celu.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2023-11-28",
+  "ton": "agresywny",
+  "stance": "sprzeciwia się",
+  "spans": [
+    {
+      "start": 103,
+      "end": 115,
+      "text": "nielegalnych",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 117,
+      "end": 129,
+      "text": "niemoralnych",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 137,
+      "end": 149,
+      "text": "obrzydliwych",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 257,
+      "end": 268,
+      "text": "nielegalnie",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 291,
+      "end": 317,
+      "text": "niezgodne z polskim prawem",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 192,
+  "created_at": "2026-10-20T19:09:38.193764Z",
+  "updated_at": "2026-10-20T19:09:38.193778Z",
+  "lead_time": 61.161
+},
+{
+  "id": 142,
+  "text": "Wdrożenie omawianych regulacji przyniesie wymierne korzyści społeczne i finansowe poprzez ograniczenie kosztów nieuzasadnionych aresztów oraz ryzyko wypłaty odszkodowań za niesłuszne pozbawienie wolności. Pozwoli to również zmniejszyć stygmatyzację osób oskarżonych czy zachować więzi rodzinne i zawodowe. Szersze wykorzystanie dozoru elektronicznego stanowi bardziej efektywne i mniej kosztowne rozwiązanie niż tradycyjna izolacja penitencjarna. Należy przy tym zadbać o odpowiednie vacatio legis oraz przygotowanie zaplecza organizacyjnego i technicznego, zwłaszcza w zakresie stosowania dozoru elektronicznego, tak aby nowe instytucje mogły funkcjonować w praktyce w sposób sprawny i skuteczny.",
+  "meta": "Anna Żukowska · Lewica · 2026-01-21",
+  "stance": "popiera",
+  "ton": "zwykły",
+  "spans": [
+    {
+      "start": 31,
+      "end": 59,
+      "text": "przyniesie wymierne korzyści",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 205,
+      "end": 223,
+      "text": "Pozwoli to również",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 193,
+  "created_at": "2026-10-20T19:10:03.027910Z",
+  "updated_at": "2026-10-20T19:10:03.027922Z",
+  "lead_time": 24.518
+},
+{
+  "id": 143,
+  "text": "Ta ustawa jest prosta, dobrze policzona. Roczne wpływy z tego tytułu to ok. 500 mln zł. Warto podjąć pracę nad tym projektem i szybko go przyjąć. Jako członek Prawa i Sprawiedliwości mówię, że jest to twarde zobowiązanie. Jak wygramy wybory, a wygramy, mam nadzieję, szybko…",
+  "meta": "Janusz Kowalski · PiS · 2025-02-21",
+  "spans": [
+    {
+      "start": 23,
+      "end": 29,
+      "text": "dobrze",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "stance": "popiera",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 194,
+  "created_at": "2026-10-20T19:10:17.683759Z",
+  "updated_at": "2026-10-20T19:10:17.683772Z",
+  "lead_time": 14.354
+},
+{
+  "id": 144,
+  "text": "Mam jednak nadzieję, że większość w obecnym parlamencie również poprze tę ustawę, ponieważ prawie wszystkie komitety wyborcze poza socjalistyczną, pazerną na czyjeś pieniądze Lewicą, której politycy głównie inwestują w korzystnie opodatkowane mieszkania na wynajem… Wszystkie pozostałe komitety w tej kampanii mówiły o obniżaniu, upraszczaniu albo likwidacji podatku Belki, stąd powinny ten projekt poprzeć. Bardzo dziękuję.",
+  "meta": "Sławomir Mentzen · Konfederacja · 2024-09-11",
+  "stance": "popiera",
+  "spans": [
+    {
+      "start": 64,
+      "end": 70,
+      "text": "poprze",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 11,
+      "end": 19,
+      "text": "nadzieję",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 131,
+      "end": 145,
+      "text": "socjalistyczną",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 147,
+      "end": 154,
+      "text": "pazerną",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "ton": "agresywny",
+  "annotator": 2,
+  "annotation_id": 195,
+  "created_at": "2026-10-20T19:11:07.190459Z",
+  "updated_at": "2026-10-20T19:11:07.190473Z",
+  "lead_time": 49.217
+},
+{
+  "id": 145,
+  "text": "Szanowni Państwo! W końcu przechodzę do kwestii sprzętu komputerowego dla powodzian. To ważne, bo podczas tej tragedii sprzęt utraciły instytucje, utracili go także obywatele. W ramach ustawy, która ma służyć powodzianom, rozpoczęliśmy pracę nad przekazaniem do szkół 16 tys. laptopów, które nie tylko mają służyć, ale też dawać poczucie, że ten sprzęt będzie pozwalał na edukację, na komunikację. Będzie i w szkole, i w domach. Sprzęt może być przekazywany potrzebującym uczniom, tak to zostało pomyślane. Będzie on odtwarzał infrastrukturę.",
+  "meta": "Krzysztof Gawkowski · Lewica · 2024-09-25",
+  "spans": [
+    {
+      "start": 0,
+      "end": 16,
+      "text": "Szanowni Państwo",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "stance": "popiera",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 196,
+  "created_at": "2026-10-20T19:11:20.572219Z",
+  "updated_at": "2026-10-20T19:11:20.572235Z",
+  "lead_time": 13.056
+},
+{
+  "id": 146,
+  "text": "My nie rozumiemy, dlaczego ten termin jest przesunięty dopiero czy aż na 1 lutego 2026 r. Chcielibyśmy usłyszeć wyjaśnienia w tym zakresie. Nie rozumiemy, ja nie rozumiem osobiście, dlaczego minister finansów łamie prawa parlamentarzystów, w tym moje, i nie odpowiada na interpelacje. Interpelację w sprawie systemu KSeF złożyłem 11 kwietnia. Termin na jej odpowiedź minął i nie dostałem informacji.",
+  "meta": "Przemysław Wipler · Konfederacja · 2024-05-08",
+  "spans": [
+    {
+      "start": 3,
+      "end": 16,
+      "text": "nie rozumiemy",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "stance": "sprzeciwia się",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 197,
+  "created_at": "2026-10-20T19:12:10.611471Z",
+  "updated_at": "2026-10-20T19:12:10.611494Z",
+  "lead_time": 49.737
+},
+{
+  "id": 147,
+  "text": "Panie marszałku, konkluduję. To, że minister Władysław Teofil Bartoszewski jest lojalnym poddanym korony brytyjskiej i jednocześnie naszym ministrem spraw zagranicznych, to już wiemy od ministra Sikorskiego. To was nie martwi.",
+  "meta": "Grzegorz Braun · Konfederacja · 2024-05-23",
+  "ton": "zwykły",
+  "stance": "neutralna",
+  "spans": [
+    {
+      "start": 0,
+      "end": 15,
+      "text": "Panie marszałku",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 198,
+  "created_at": "2026-10-20T19:13:07.664504Z",
+  "updated_at": "2026-10-20T19:13:07.664517Z",
+  "lead_time": 56.721
+},
+{
+  "id": 148,
+  "text": "Szczęść Boże pielęgniarkom i położnym! Także ratownikom medycznym, personelowi niższemu, wyższemu, wszystkim, którzy w scenariuszu optymalnym ratują nasze zdrowie i życie. Chciałbym to na początek wyraźnie zadeklarować. Konfederacja nie będzie żałować pieniędzy na pensje dla ludzi, którzy starają się o nas, wtedy kiedy tego najbardziej potrzebujemy.",
+  "meta": "Grzegorz Braun · Konfederacja · 2023-11-29",
+  "spans": [
+    {
+      "start": 0,
+      "end": 12,
+      "text": "Szczęść Boże",
+      "labels": [
+        "Agresja"
+      ]
+    },
+    {
+      "start": 233,
+      "end": 261,
+      "text": "nie będzie żałować pieniędzy",
+      "labels": [
+        "Kontekst"
+      ]
+    }
+  ],
+  "ton": "agresywny",
+  "stance": "popiera",
+  "annotator": 2,
+  "annotation_id": 199,
+  "created_at": "2026-10-20T19:14:03.558896Z",
+  "updated_at": "2026-10-20T19:14:03.558910Z",
+  "lead_time": 55.57
+},
+{
+  "id": 149,
+  "text": "Rada będzie składała się z siedmiu niezależnych ekspertów, którzy będą wybierani przez poszczególne organy i instytucje. Jak najbardziej popieramy to rozwiązanie, rzeczywiście jest to potrzebne. Członkowie rady będą powoływani przez ministra finansów po uzyskaniu pozytywnej opinii. Przewodniczący Rady Fiskalnej będzie wybierany w otwartej procedurze. Jak najbardziej taka instytucja jest potrzebna. Powołanie jest jak najbardziej zasadne. Jako Klub Parlamentarny Polskie Stronnictwo Ludowe — Trzecia Droga w pełni popieramy ten projekt ustawy. Dziękuję.",
+  "meta": "Mirosław Orliński · PSL-TD · 2024-11-20",
+  "stance": "popiera",
+  "spans": [
+    {
+      "start": 516,
+      "end": 525,
+      "text": "popieramy",
+      "labels": [
+        "Kontekst"
+      ]
+    },
+    {
+      "start": 546,
+      "end": 554,
+      "text": "Dziękuję",
+      "labels": [
+        "Agresja"
+      ]
+    }
+  ],
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 200,
+  "created_at": "2026-10-20T19:14:32.436303Z",
+  "updated_at": "2026-10-20T19:14:32.436317Z",
+  "lead_time": 28.555
+},
+{
+  "id": 150,
+  "text": "1. Kiedy wnioskodawcy przedstawią symulację wpływu stawki maksymalnej 35% minimalnej stawki godzinowej na obciążenie turystów? 2. Ile faktycznie otrzyma Polska Organizacja Turystyczna z szacowanych 700 mln zł: 126 mln zł czy 140 mln zł rocznie?",
+  "meta": "Bożena Lisowska · KO · 2026-09-02",
+  "stance": "neutralna",
+  "ton": "zwykły",
+  "annotator": 2,
+  "annotation_id": 201,
+  "created_at": "2026-10-20T19:14:38.376160Z",
+  "updated_at": "2026-10-20T19:14:38.376178Z",
+  "lead_time": 5.604
+}
+]
