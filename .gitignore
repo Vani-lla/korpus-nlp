@@ -8,4 +8,8 @@ label-studio-data/*-wal
 label-studio-data/*-shm
 
 models/
+<<<<<<< Updated upstream
 outputs/
+=======
+cache/
+>>>>>>> Stashed changes
