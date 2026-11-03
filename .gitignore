@@ -8,3 +8,4 @@ label-studio-data/*-wal
 label-studio-data/*-shm
 
 models/
+outputs/
