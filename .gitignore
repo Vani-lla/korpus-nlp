@@ -9,3 +9,4 @@ label-studio-data/*-shm
 
 models/
 outputs/
+.env
